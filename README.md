@@ -8,7 +8,7 @@ My names is Kauã Felipe
 
 ### vc pode enntrar em contato comigo 📫
 
-kaua82614@gmail.com
+kaua82614@gmail.com 00001097564976sp@al.educacao.sp.gov.br
 
 @kazin_gt
 
