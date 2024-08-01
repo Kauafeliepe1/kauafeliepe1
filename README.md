@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🥇
 
-<!--
-**Kauafeliepe1/kauafeliepe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My names is Kauã Felipe
 
-Here are some ideas to get you started:
+- estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javascript
+- utilizo esse espaço para minha organização e compartinhamento do meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### vc pode enntrar em contato comigo 📫
+
+kaua82614@gmail.com
+
+@kazin_gt
+
+![](https://media1.tenor.com/m/j_22v4BOegUAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif)
